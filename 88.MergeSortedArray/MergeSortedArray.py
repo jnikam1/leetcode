@@ -5,6 +5,7 @@ class Solution:
         """
         nums1[m:]=nums2[:n]
         nums1.sort()
+        
         # for i in range (m):
         #     nums1.pop()
         # for j in nums2:    
